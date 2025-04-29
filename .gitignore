@@ -1,4 +1,5 @@
 /.ipynb_checkpoints/
-/.envrc
 /__pycache__/
+/.envrc
 /data/
+.DS_Store
